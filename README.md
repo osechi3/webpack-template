@@ -45,6 +45,11 @@
 
 ## Installation
 
+In the root folder
+```shell
+npm install
+```
+
 + ESLint
 
 >./node_modules/.bin/eslint --init
