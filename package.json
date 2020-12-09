@@ -1,5 +1,5 @@
 {
-  "name": "faq-accordion-card-frontend-mentor",
+  "name": "webpack-template",
   "version": "1.0.0",
   "description": "",
   "private": "true",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osechi3/faq-accordion-card-frontend-mentor.git"
+    "url": "git+https://github.com/osechi3/webpack-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/osechi3/faq-accordion-card-frontend-mentor/issues"
+    "url": "https://github.com/osechi3/webpack-template/issues"
   },
-  "homepage": "https://github.com/osechi3/faq-accordion-card-frontend-mentor#readme",
+  "homepage": "https://github.com/osechi3/webpack-template#readme",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/preset-env": "^7.12.7",
